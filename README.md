@@ -1,6 +1,6 @@
 # CalendarProApp
 
-It is Simple Console Based Appliation done using Core-Java. It Provides features to Create Event, To View Event, To Set Reminders.
+It is Simple Console Based Java Appliation. It Provides features to Create Event, To View Event, To Set Reminders.
 
 # Features
 1. Add Events
