@@ -19,7 +19,9 @@ It is Simple Console Based Appliation done using Core-Java. It Provides features
 
 # To run the File
 In CMD :
-javac Main.java
-java Main
+Type
+1.javac Main.java
+
+2.java Main
 
 
